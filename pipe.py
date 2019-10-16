@@ -41,5 +41,5 @@ path+"/marked_"+sample_name+".bam", "|", "/home/bioinf/programs/bcftools/bcftool
 
 #
 #process=subprocess.call([])
-
+###
 
